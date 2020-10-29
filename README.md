@@ -16,12 +16,17 @@ Vista= Archivo CSS
 Controlador= Archivo JavaScript
 
 2.	Generar una llave para consumir los servicios web de la API (opcional, depende de la API seleccionada).
+
 API: The Cocktail Db 
+
 Key: 1
+
 Referencia: https://www.thecocktaildb.com/
 
 3.	Crear un repositorio en GitHub con el nombre “Practica00 – Consumo de APIs en la nube”
+
 ![image](https://user-images.githubusercontent.com/52221275/97601350-12902900-19d8-11eb-8982-89602f3a5121.png)
+
 User: DianaTixi
 URL: https://github.com/DianaTixi/Practica00-Consumo-de-APIs-en-la-nube.git
 
@@ -29,7 +34,9 @@ URL: https://github.com/DianaTixi/Practica00-Consumo-de-APIs-en-la-nube.git
 toda la información disponible a través de la API.
 
 Para el desarrollo se utilizó una plantilla de Bootstrap en la cual se modificó para acoplar con la elaboración de la practica a elaborar 
+
 -	HTML (Estructura)
+
 ![image](https://user-images.githubusercontent.com/52221275/97601413-23d93580-19d8-11eb-9a16-6877b6978d66.png)
 
 ![image](https://user-images.githubusercontent.com/52221275/97601469-33f11500-19d8-11eb-8c78-f8f6d5129ed4.png)
