@@ -3,9 +3,11 @@ Practica 1 Plataformas Web
 1.	Identificar gráficamente la arquitectura y el patrón de diseño de la aplicación a desarrollar.
 En la presente practica se utiliza la arquitectura y patrón:
 Arquitectura: Cliente/Servidor 
+
 ![image](https://user-images.githubusercontent.com/52221275/97601121-d3fa6e80-19d7-11eb-930f-2047a9f7a943.png)
 
 Funcionamiento
+
 ![image](https://user-images.githubusercontent.com/52221275/97601228-f7251e00-19d7-11eb-9be9-6c942b3cdd1a.png)
 
 Patron  MVC (Modelo, Vista  Controlador)
