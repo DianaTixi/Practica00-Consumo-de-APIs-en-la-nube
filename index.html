@@ -70,18 +70,35 @@
 
                         <input type="text" class="form-control" id="nombre" name="nombre" value="" placeholder="Nombre del Coctel" width="25%"> <br>
                         <input type="button" class="btn btn-secondary" id="b1" name="buscar" value="Buscar" onclick="obtnerdatos()" />
+                        <input type="button" class="btn btn-secondary" value="Actualizar" onclick="location.reload()" />
                         <br>
-                        <table id="resultado" cellspacing="1.5" cellpadding="1.5"></table>
+                        <div id="tabla" style="display:none">
+                            <table id="resultado" cellspacing="1.5" cellpadding="1.5">
+                                <thead>
+                                    <tr>
+                                        <th>Codigo</th>
+                                        <th>Bebida</th>
+                                        <th>Categoria</th>
+                                        <th>Nombre</th>
+                                        <th>Ingrediente1</th>
+                                        <th>Ingrediente2</th>
+                                        <th>Ingrediente3</th>
+                                        <th>Imagen</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="resul">
+
+                                </tbody>
+                            </table>
+                        </div>
                     </form>
                 </div>
-
+                <div>
+                    <div id="pagination-wrapper"></div>
+                </div>
             </div>
         </div>
     </div>
-
-
-
-
 
     <div class="social-icons">
         <ul class="list-unstyled text-center mb-0">

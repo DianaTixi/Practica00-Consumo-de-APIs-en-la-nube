@@ -40,7 +40,7 @@ video {
 
 #resultado {
     position: relative;
-    width: auto;
+    width: 100%;
     height: auto;
     border: #AEB6BF solid 4px;
     border-image: 3pt;
@@ -48,7 +48,6 @@ video {
     padding-top: 10px;
     margin-bottom: 10px;
     margin-top: 10px;
-    margin-left: 10%;
     text-align: center;
     color: rgb(229, 231, 233);
     border-spacing: 10px;
